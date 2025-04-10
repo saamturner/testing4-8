@@ -4,7 +4,13 @@
     "publish_sha": "",
     "publish_iso_date": ""
   },
-  "users": [],
+  "users": [
+    {
+      "login_name": "saamturner",
+      "avatar_url": "https://avatars.githubusercontent.com/u/157153031?v=4",
+      "admin": true
+    }
+  ],
   "project": {
     "github_org": "saamturner",
     "is_private": false,
@@ -22,6 +28,7 @@
       "tags": []
     },
     "created_at": "2025-04-08T19:25:56.156Z",
-    "updated_at": "2025-04-08T19:25:56.156Z"
+    "updated_at": "2025-04-08T19:25:56.156Z",
+    "generate_pages_site": true
   }
 }
